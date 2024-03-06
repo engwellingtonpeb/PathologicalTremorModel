@@ -17,7 +17,7 @@ Pathological tremor (PT) is an involuntary rhythmic movement affecting voluntary
 ## Repository Contents
 
 - **Code**: Matlab/OpenSim scripts and models for the simulation of pathological tremors.
-- **Dataset**: Sample data for model calibration and validation. <a href="[https://ieee-dataport.org/documents/opensim-based-closed-loop-biomechanical-wrist-model-pathological-tremor-simulation-dataset](https://ieee-dataport.org/documents/opensim-based-closed-loop-biomechanical-wrist-model-pathological-tremor-simulation-dataset/embed)">Link to Dataset</a>
+- **Dataset**: Sample data for model calibration and validation. <a href="https://ieee-dataport.org/documents/opensim-based-closed-loop-biomechanical-wrist-model-pathological-tremor-simulation-dataset/embed">Link to Dataset</a>
 
 ## Setup and Usage
 
