@@ -10,7 +10,7 @@ This repository contains the research codes for the paper titled "An OpenSim-bas
 - **DOI**: [10.1109/TNSRE.2024.3373433](https://ieeexplore.ieee.org/document/10459224)
 - **License**: Creative Commons License
 
-## Abstract
+## Summary
 
 Pathological tremor (PT) is an involuntary rhythmic movement affecting voluntary motion and compromising independence. A comprehensive model that incorporates PT's physiological and biomechanical aspects can enhance our understanding and aid in therapeutic approaches. This study aims to build a biomechanical model of PT using OpenSim's musculoskeletal representation of the human wrist. We implemented a Matlab/OpenSim interface for forward dynamics simulation with a physiological H ∞ closed-loop control to replicate PT observed in patients. The model was tuned to subjects with distinct tremor characteristics, achieving simulation agreement with experiments. This methodology may facilitate the design of patient-specific rehabilitation devices for tremor suppression.
 
