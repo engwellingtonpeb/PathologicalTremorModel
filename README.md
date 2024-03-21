@@ -27,16 +27,13 @@ Please refer to the `Documentation` folder for setup instructions and how to use
 
 If you use any part of this code or data for your research, please cite our paper:
 
-@ARTICLE{10459224,
-  author={Pinheiro, Wellington C. and Ferraz, Henrique B. and Castro, Maria Claudia F. and Menegaldo, Luciano L.},
-  journal={IEEE Transactions on Neural Systems and Rehabilitation Engineering}, 
-  title={An OpenSim-based closed-loop biomechanical wrist model for subject-specific pathological tremor simulation}, 
+@article{pinheiro2024opensim,
+  title={An OpenSim-based closed-loop biomechanical wrist model for subject-specific pathological tremor simulation},
+  author={Pinheiro, Wellington C and Ferraz, Henrique B and Castro, Maria Claudia F and Menegaldo, Luciano L},
+  journal={IEEE Transactions on Neural Systems and Rehabilitation Engineering},
   year={2024},
-  volume={},
-  number={},
-  pages={1-1},
-  keywords={Essential Tremor;OpenSim;Parkinson’s disease;Pathological Tremor},
-  doi={10.1109/TNSRE.2024.3373433}}
+  publisher={IEEE}
+}
 
 
 ## Contact
